@@ -19,5 +19,3 @@ Analyzed social media data and provided digital marketing strategies with 17 COO
 #### Sample Dashboard View (Main Sheet only)
 ![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Images/Dashboard%20Main%20Page%20View.png)
 
----
-Still on progress...
