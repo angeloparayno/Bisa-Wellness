@@ -13,7 +13,11 @@ Repository Content:
   * Client's Color Scheme (Hex/RGB/CYMK table)
   * Tableau Guide
 ---
-![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Title%20Slide.png)
+![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Images/Title%20Slide.png)
+
+---
+#### Sample Dashboard View (Main Sheet only)
+![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Images/Dashboard%20Main%20Page%20View.png)
 
 ---
 Still on progress...
