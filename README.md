@@ -1,7 +1,10 @@
 # Bisa-Wellness
-#### Data and Marketing Analysis Project 
+### COOP Data and Marketing Analytics Project (2022)
 ---
-Content:
+Analyzed social media data and provided digital marketing strategies with 17 COOPers, which aims to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business
+
+---
+Repository Content:
 * Bisa Wellness Presentation by C272
 * Bisa Wellness C272 Project Dashboard
   * Main Links to all resources
