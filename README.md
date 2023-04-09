@@ -1,7 +1,7 @@
 # Bisa-Wellness
 ### Data and Marketing Analytics Project (2022) - COOP Careers
 
-Analyzed social media data and provided digital marketing strategies with 17 COOPers, which aims to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business
+Analyzed social media data and provided digital marketing strategies with 17 COOPers, aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business
 
 ---
 ### Repository Contents:
