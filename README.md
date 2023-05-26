@@ -6,7 +6,7 @@ Analyzed social media data and provided digital marketing strategies with 17 COO
 ---
 ### Repository Contents:
 * [Bisa Wellness Presentation by C272](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa%20Wellness%20-%20C272.pdf)
-* [Bisa Wellness C272 Project Dashboard](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa%20Wellness%20Project%20Dashboard%20(C272).xlsx)
+* [Bisa Wellness C272 Project Managment Dashboard](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa%20Wellness%20Project%20Dashboard%20(C272).xlsx)
   * Main Links to all resources
   * Team A Deliverables
   * Team B Deliverables
