@@ -13,7 +13,7 @@ Analyzed social media data and provided digital marketing strategies with 17 COO
   * Client's Color Scheme (Hex/RGB/CYMK table)
   * Tableau Guide
 ---
-[![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/assets/Title%20Slide.png)](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa%20Wellness%20-%20C272.pdf)
+[![](https://github.com/angeloparayno/Bisa-Wellness/blob/main/assets/Title%20Slide.png)](https://github.com/angeloparayno/Bisa-Wellness/blob/main/Bisa-Wellness-C272.pdf)
 
 ---
 #### Sample Dashboard Image View (*click to direct to the actual Google Sheet page*)
